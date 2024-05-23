@@ -1,8 +1,6 @@
 # This document and code written with NotionAI.
 
-# Screenshot
-![TurengLayout](https://github.com/fishmohuman/TurengApPy/blob/main/Screenshot%202024-05-22%20153553.png)
-![HistoryLayout](https://github.com/fishmohuman/TurengApPy/blob/main/Screenshot%202024-05-22%20153618.png)
+#Screenshots can be found in files.
 
 # TurengApPy
 TurengApPy, developed with Python and PyQt6, is a user-friendly desktop app serving as a translator tool based on the popular Turkish-English online dictionary, Tureng. It offers hassle-free word and phrase translation through a simple GUI.
